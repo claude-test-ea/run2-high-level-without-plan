@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip list:*)",
+      "Bash(python train_model.py)",
+      "Bash(python -c \":*)",
+      "Bash(timeout 15 streamlit run app.py --server.headless true)",
+      "Bash(streamlit run:*)"
+    ]
+  }
+}

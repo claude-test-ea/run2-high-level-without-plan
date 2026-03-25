@@ -1,0 +1,5 @@
+## Prompt received at 2026-03-25
+Build a complete, production-style ML pipeline and Streamlit dashboard for the Loan Eligibility Prediction problem. End-to-End ML Pipeline with data split strategy (last 200 rows hold-out), Streamlit dashboard (app.py) with multi-tab layout for data explorer, model performance, model deep dive and predictions. Full dataset used for dashboard visualizations, training only on full_data[:-200].
+
+## Prompt received at 2026-03-25
+Raise PR by committing and pushing code in a new branch. Then approve PR and merge it in main.
